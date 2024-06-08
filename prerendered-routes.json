@@ -1,0 +1,12 @@
+{
+  "routes": [
+    "/blog",
+    "/blog-admin",
+    "/blog-edit",
+    "/form",
+    "/home",
+    "/login",
+    "/privacy",
+    "/stats"
+  ]
+}
